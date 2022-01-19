@@ -5,3 +5,4 @@ os.system("pip3 install -r practica_creativa2/bookinfo/src/productpage/requireme
 os.system("pip3 install flask_bootstrap")
 os.system("pip3 install jaeger_client")
 os.system("pip3 install opentracing_instrumentation")
+os.system("pip3 install simplejson")
